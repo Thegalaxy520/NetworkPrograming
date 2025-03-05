@@ -1,7 +1,6 @@
 # Epoll TCP Server/Client
 
 ![C](https://img.shields.io/badge/C-17%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
 
 基于Linux epoll实现的TCP服务器/客户端示例，演示高效I/O多路复用技术的网络编程实现。
